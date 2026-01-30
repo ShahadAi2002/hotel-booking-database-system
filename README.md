@@ -16,7 +16,8 @@ Data Integrity: Comprehensive constraint enforcement including foreign keys, CHE
 # 🗂️ Database Schema
 Entity-Relationship Model
 
-![EER Diagram](Schema/eer-diagram.png)
+![EER Diagram](Schema/eerdiagram.png)
+
 
 The EER diagram demonstrates:
 Specialization/Generalization: Staff entity with disjoint subclasses
@@ -24,6 +25,7 @@ Relationship Types: 1:1, 1:N, and M:N relationships properly mapped
 Cardinality Constraints: Complete participation and relationship constraints
 
 Relational Schema
+
 ![Relational Schema](Schema/relational-schema.png)
 The relational model includes 11 normalized tables:
 
@@ -38,6 +40,7 @@ Modeling: Enhanced Entity-Relationship (EER) Diagrams
 Design Methodology: Conceptual → Logical → Physical database design
 Normalization: Applied normalization principles to eliminate redundancy
 
-This project was created for academic purposes as part of CS372 coursework.
+
+# This project was created for academic purposes as part of CS372 coursework.
 
 
