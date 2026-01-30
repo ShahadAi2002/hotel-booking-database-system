@@ -16,7 +16,7 @@ Data Integrity: Comprehensive constraint enforcement including foreign keys, CHE
 # 🗂️ Database Schema
 Entity-Relationship Model
 
-![EER Diagram](Schema/eerdiagram.png)
+![EER Diagram](Schema/eer_diagram.png)
 
 
 The EER diagram demonstrates:
@@ -36,8 +36,11 @@ The relational model includes 11 normalized tables:
 # Technologies Used:
 
 Database: Oracle SQL
+
 Modeling: Enhanced Entity-Relationship (EER) Diagrams
+
 Design Methodology: Conceptual → Logical → Physical database design
+
 Normalization: Applied normalization principles to eliminate redundancy
 
 
